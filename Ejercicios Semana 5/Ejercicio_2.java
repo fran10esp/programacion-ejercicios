@@ -12,7 +12,9 @@ public class Ejercicio_2 {
         
         System.out.println("Introduce el segundo número");
         int num2 = sc.nextInt();
-       
+        
+        System.out.println("Hola");
+        
         if(num2==0) {
         	
         	System.out.println("No se puede dividir por cero usando enteros");
